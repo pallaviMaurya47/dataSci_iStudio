@@ -1,0 +1,58 @@
+@1st: Python Programming=>{
+
+    *General Programming language ( another R PROGRMM)
+    *High level language
+    *ease to develop Prototypes like easy structure & readilibity
+    *versatile language - most fields like DA,Data science
+    *interpreted language ( HLL to LLL:Machine code), not compiled language
+    *casesensitive
+
+}
+
+>>Basics of Python{
+    Keywords=reserverd words
+
+    #Variables==identifiers( words which helps to assign specific meaning to it):- integers: unlimited precision & have octal,biary orhexDec
+     
+     Float-int+fractional parts
+     String: Python has built-in string class( str-immutable)
+     Boolean:T/F
+     complex numbers: 2+3i
+     None DT
+
+     # 4 non-primitives={
+        List- mutable, [ ordered collection of heterogenous items with addresses(idx)]
+            -dynamic, can add,delete,search,move items
+        tuple
+        Dict
+        set
+     }
+}
+>>different Data types
+>> List & Dict comprehensions {
+
+       
+}
+Functions
+Module,packages & Libraries
+
+@2nd: Data wrangling & manipulation
+> Pandas
+>Numpy
+> Seaborn and Matplotlib
+>Exploratory Data Analysis
+>Data Visualization using Python
+
+@3rd: Probability & Statistical Analysis
+
+Descriptive and inferential Statistics
+Hypothesis testing
+Standard Normal distribution
+Outliers detection & treatment
+
+@4th: Machine Learning
+>Scikit-Learning
+>Regression & classification Analysis
+>Linear and logistics Regression
+>different classification models
+>NLP
