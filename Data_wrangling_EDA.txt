@@ -1,0 +1,37 @@
+EDA => EXPLORATORY data analysis
+(data wrangling)
+
+Steps:->
+Raw data: have no pattern or feature
+  => > DATA EXPLORATORATION 
+  => data cleaning ( Duplicate values, missing values: by imputation the cells & delete)
+  => Data Preprocessing( making in FORMATE: means like in Series or dataframes)
+  => analysis
+  =>ML model
+
+
+DATA EXPLORATORATION: ( 2)
+>>High level understanding
+  :apply command over whole dataset-- mean,median
+
+>>Low level understanding
+  :could be -->univariate- one column
+            -->bivariate
+            -->multivariate- combintn of columns
+
+Quartiles:->
+
+first Quartile- 25%= 25%(n+1)
+50%
+75%
+IQL-interquartile
+
+
+Correlation:-> 
+          when two sets of data are strongly linked together we say they have a High Correlation.
++ve : when the values increase together and
+-ve Correlation: decreases together. 
+
+>>Correlation is assumed to be linear( following a line).
+>> 1 :Perfect +ve
+0 : no Correlation
